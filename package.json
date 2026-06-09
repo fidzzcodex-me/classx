@@ -1,0 +1,15 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "Lightweight Puppeteer-like browser automation using Playwright. Optimized for Pterodactyl and low-resource environments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["puppeteer", "playwright", "automation", "browser", "pterodactyl"],
+  "author": "fidzz",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}
